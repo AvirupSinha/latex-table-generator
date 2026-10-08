@@ -1,0 +1,10 @@
+# Python 3.10+
+# Qt widgets for the GUI. "PySide6-Essentials" is the lightweight core of PySide6
+# (QtCore/QtGui/QtWidgets); the full "PySide6" package works just as well.
+PySide6-Essentials>=6.5
+pandas>=1.5
+
+# Optional, only for building a standalone executable:
+#   pip install pyinstaller
+# Optional, only for running the test suite:
+#   pip install pytest
